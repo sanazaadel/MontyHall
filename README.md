@@ -1,5 +1,9 @@
 ## Monty Hall Problem Simulation    
-This project simulates the Monty Hall problem, a famous probability puzzle based on a game show scenario. The simulation allows users to see the outcomes of switching versus staying with their initial choice over multiple trials.   
+This project simulates the Monty Hall problem, a famous probability puzzle based on a game show scenario. The simulation allows users to see the outcomes of switching versus staying with their initial choice over multiple trials.
+
+Here is a snapshot of the dashboard:
+![alt text](<App View.png>)
+
 ### Features    
 - Simulates the Monty Hall game with options to switch or stay.     
 - Compares win rates for both strategies over a specified number of trials.    
